@@ -1,0 +1,17 @@
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\bin\Debug\net6.0\WeatherReport.Infra.deps.json
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\bin\Debug\net6.0\WeatherReport.Infra.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\bin\Debug\net6.0\WeatherReport.Infra.pdb
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\WeatherReport.Infra.csproj.AssemblyReference.cache
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\WeatherReport.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\WeatherReport.Infra.AssemblyInfoInputs.cache
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\WeatherReport.Infra.AssemblyInfo.cs
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\WeatherReport.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\WeatherReport.Infra.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\refint\WeatherReport.Infra.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\WeatherReport.Infra.pdb
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\ref\WeatherReport.Infra.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\bin\Debug\net6.0\WeatherReport.Domain.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\bin\Debug\net6.0\WeatherReport.SharedServices.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\bin\Debug\net6.0\WeatherReport.Domain.pdb
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\bin\Debug\net6.0\WeatherReport.SharedServices.pdb
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Infra\obj\Debug\net6.0\WeatherReport.Infra.csproj.CopyComplete

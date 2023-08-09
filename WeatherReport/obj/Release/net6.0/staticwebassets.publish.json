@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xZBpasBJnwWP1NczYvv5gwqOGbze9y9yu+giRyfMu88=",
+  "Source": "WeatherReport.Api",
+  "BasePath": "_content/WeatherReport.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

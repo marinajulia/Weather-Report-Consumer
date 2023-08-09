@@ -1,0 +1,15 @@
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\bin\Debug\net6.0\WeatherReport.Domain.deps.json
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\bin\Debug\net6.0\WeatherReport.Domain.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\bin\Debug\net6.0\WeatherReport.Domain.pdb
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\WeatherReport.Domain.csproj.AssemblyReference.cache
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\WeatherReport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\WeatherReport.Domain.AssemblyInfoInputs.cache
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\WeatherReport.Domain.AssemblyInfo.cs
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\WeatherReport.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\WeatherReport.Domain.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\refint\WeatherReport.Domain.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\WeatherReport.Domain.pdb
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\ref\WeatherReport.Domain.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\bin\Debug\net6.0\WeatherReport.SharedServices.dll
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\bin\Debug\net6.0\WeatherReport.SharedServices.pdb
+C:\Users\Marina\OneDrive\Área de Trabalho\Weather-Report\WeatherReport\WeatherReport.Domain\obj\Debug\net6.0\WeatherReport.Domain.csproj.CopyComplete
